@@ -28,7 +28,6 @@ footer {
 }
 .img-with-text {
     text-align: centre;
-    width: [width of img];
 }
 .img-with-text img {
     display: block;
