@@ -1,10 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
+	text-align: left;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	text-align: left;
 }
 h2 {
     font-size: 2em;
@@ -30,6 +32,7 @@ footer {
 	padding: 10px;
 	background: #71AFFF;
 	color: #FFFFFF;
+	margin-bottom: 16px;
 }
 ul.posts { 
     margin: 20px auto 40px; 
@@ -38,3 +41,18 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.iconDetails {
+	margin-left:2%;
+	float:left; 
+	height:40px;
+	width:40px;
+	border-radius: 50%;	
+} 
+.container2 {
+    width:270px;
+    height:auto;
+    padding:1%;
+    float:left;
+}
+.left {float:left;width:45px;}
+.right {float:left;margin:0 0 0 5px;width:215px;}
