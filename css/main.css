@@ -33,6 +33,9 @@ footer {
 .img-with-text img {
     display: block;
     margin: 0 auto;
+	margin-left:2%;
+	float: left;
+	border-radius: 50%;
 }
 .container2 {
     width:100%;
