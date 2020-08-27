@@ -26,6 +26,14 @@ footer {
 	color: #FFFFFF;
 	margin-bottom: 16px;
 }
+.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
 .iconDetails {
 	margin-left:2%;
 	float:left; 
