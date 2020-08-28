@@ -40,8 +40,8 @@ img {
     padding:1%;
     float:left;
 }
-.left {float:left;width:50%;}
-.right {float:left;width:50%;}
+.left {float:left;width:auto;}
+.right {float:left;width:auto;}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
