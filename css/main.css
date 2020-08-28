@@ -26,10 +26,7 @@ footer {
 	color: #FFFFFF;
 	margin-bottom: 16px;
 }
-.img-with-text {
-    text-align: centre;
-}
-.img-with-text img {
+img {
     display: block;
     margin: 0 auto;
 	margin-left:2%;
