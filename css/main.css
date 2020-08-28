@@ -44,6 +44,8 @@ footer {
 	margin-top: auto;
 	margin-bottom: auto;
 	border-radius: 50%; 
+	max-width: 100%;
+    max-height: 100vh;
 }
 /* Clear floats after the columns */
 .row:after {
