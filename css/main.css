@@ -1,6 +1,7 @@
 * {
 	box-sizing: border-box;
 }
+
 body {
     width: 75%;
     margin: 0 auto;
@@ -8,6 +9,7 @@ body {
 	text-align: left;
 	font-size: 1em;
 }
+
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
